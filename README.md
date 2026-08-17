@@ -1,2 +1,3 @@
-# SAARTHI
-A centralized recruitment portal for publishing vacancies, managing candidate applications, screening applicants, and streamlining the recruitment and selection process.
+SAARTHI (System for Application, Administration, Recruitment & Talent Handling Interface) is a centralized recruitment management portal designed to simplify and streamline the recruitment process for organizations and applicants.
+SAARTHI provides a unified platform for managing recruitment activities from vacancy creation to candidate selection. It enables organizations to publish recruitment opportunities, receive applications, manage candidates, and coordinate the selection process through a centralized system.
+The platform is designed with a focus on transparency, efficiency, accessibility, and streamlined recruitment workflows.
